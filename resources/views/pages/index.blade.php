@@ -690,7 +690,7 @@
                     <ul>
                          <p style="line-height: 40px; color:white;" >BaseChain Presale Information</p> 
                          <p style="line-height: 40px; color:white;" >Send Etheruem to this wallet address</p> 
-                        <p style="line-height: 40px; color:white;" >0x5987309EB27810AD76Bc16e0FB5a19b2b5be9874</p> 
+                        <p style="line-height: 40px; color:white;" >0x845018574e0B0C99e8Ee8058CcC205203eb73654</p> 
                          <p style="line-height: 40px; color:white;" >min: .05 ETH  </p> 
                         <p style="line-height: 40px; color:white;" >Max: 1 ETH</p> 
                         <p style="line-height: 40px; color:white;" >Once you send the Ethereum you will recieve your Tokens and NFT within the first 5 minutes</p> 
@@ -845,7 +845,7 @@
                         <h3 style="color:white;"> What is the presale wallet address?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">0x5987309EB27810AD76Bc16e0FB5a19b2b5be9874</p>
+                                <p style="color:black;">0x845018574e0B0C99e8Ee8058CcC205203eb73654</p>
                             </div>
 
                         </div>
