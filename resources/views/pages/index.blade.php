@@ -691,7 +691,7 @@
                          <p style="line-height: 40px; color:white;" >BaseChain Presale Information</p> 
                          <p style="line-height: 40px; color:white;" >Send Etheruem to this wallet address</p> 
                         <p style="line-height: 40px; color:white;" >0x845018574e0B0C99e8Ee8058CcC205203eb73654</p> 
-                         <p style="line-height: 40px; color:white;" >min: .05 ETH  </p> 
+                         <p style="line-height: 40px; color:white;" >min: .1 ETH  </p> 
                         <p style="line-height: 40px; color:white;" >Max: 1 ETH</p> 
                         <p style="line-height: 40px; color:white;" >Once you send the Ethereum you will recieve your Tokens and NFT within the first 5 minutes</p> 
 
@@ -707,7 +707,68 @@
         </div> <!-- end of container -->
     </div> <!-- end of basic-1 -->
     <!-- end of takeaways -->
+<section style="background-color:black">
+<div class ="container" style="background-color: black !important;">
+      <div class="row">
+        <div class="col-lg-12">
+        <table class="table" style="background-color:black">
+  <thead>
+    <tr>
+      <th scope="col" style="color:white;">Ethereum Amount</th>
+      <th scope="col" style="color:white;">Book Of Pokadex Token Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color:white;">.1 ETH</td>
+      <td style="color:white;">5,000,000</td>
+    </tr>
+    <tr>
+      <td style="color:white;">.2 ETH</td>
+      <td style="color:white;">10,000,000</td>
+    </tr>
+    <tr>
+      <td style="color:white;">.3 ETH</td>
+      <td style="color:white;">15,000,000</td>
+    </tr>
+    <tr>
+      <td style="color:white;">.4 ETH</td>
+      <td style="color:white;">20,000,000</td>
+    </tr>
+    <tr>
+      <td style="color:white;">.5 ETH</td>
+      <td style="color:white;">25,000,000</td>
+    </tr>
+    <tr>
+      <td style="color:white;">.6 ETH</td>
+      <td style="color:white;">30,000,000</td>
+    </tr>
+    <tr>
+      <td style="color:white;">.7 ETH</td>
+      <td style="color:white;">35,000,000</td>
+    </tr>
+    <tr>
+      <td style="color:white;">.8 ETH</td>
+      <td style="color:white;">40,000,000</td>
+    </tr>
+    <tr>
+      <td style="color:white;">.9 ETH</td>
+      <td style="color:white;">45,000,000</td>
+    </tr>
+    <tr>
+      <td style="color:white;">1 ETH</td>
+      <td style="color:white;">50,000,000</td>
+    </tr>
+  </tbody>
+</table>
 
+        </div>
+
+      </div>
+
+    </div>
+</section>
+   
 
 
 
