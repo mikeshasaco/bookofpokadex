@@ -270,7 +270,7 @@
 .cardone.ball {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("darkcharizard.png");
+  background-image: url("pokeball.png");
 
 }
 
@@ -386,9 +386,9 @@
 }
 .cardone.ball:after {
   opacity: 1;
-  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXl3czlwMzFmazhtM2o1bzU5bWN0cTFsb2h0amhqenJiMjM2M2VqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJy4FQlLbxDz4kJ6GF/giphy.gif");
+  background-image: url("https://media.giphy.com/media/gmDwphaOWmfkY/giphy.gif");
   background-position: center;
-  background-size: 260%;
+  background-size: 160%;
   z-index: 2;
   animation: holoSparkle 15s ease infinite both;
   filter: brightness(1);
