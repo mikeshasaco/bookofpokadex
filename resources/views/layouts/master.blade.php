@@ -42,10 +42,10 @@
                 <ul class="navbar-nav ml-auto">
                    
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://twitter.com/InverseRealm"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
+                        <a class="nav-link page-scroll" href="https://twitter.com/bookofpokadex"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://t.me/+MAKudHqoDhBlZmJh"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
+                        <a class="nav-link page-scroll" href="https://t.me/bookofpokadex"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
                     </li>
               
                 </ul>

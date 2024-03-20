@@ -619,7 +619,7 @@
                     <div class="cardone cardverse">
 
                     </div>
-                    <h3 style="color:white; text-align:center; font-weight:bold;">Book Of Pokedex</h3>
+                    <h3 style="color:white; text-align:center; font-weight:bold;">Book Of Pokadex</h3>
 
                 </div> <!-- end of div -->
                
@@ -667,7 +667,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <!-- <div class="cardone redmask"> -->
-                    <div class="cardone redmask">
+                    <div class="cardone greenmask">
 
                     </div>
 
@@ -857,7 +857,7 @@
                         <h3 style="color:white;"> Where can is the Telegram link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://t.me/+MAKudHqoDhBlZmJh">Telegram</a> </p>
+                                <p style="color:black;"> <a href="https://t.me/bookofpokadex">Telegram</a> </p>
                             </div>
 
                         </div>
@@ -868,7 +868,7 @@
                         <h3 style="color:white;"> where can i find the twitter link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://twitter.com/InverseRealm" target="_blank">Twitter</a> </p>
+                                <p style="color:black;"> <a href="https://twitter.com/bookofpokadex" target="_blank">Twitter</a> </p>
                             </div>
 
                         </div>
