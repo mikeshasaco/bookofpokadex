@@ -655,7 +655,7 @@
                     <h3 style="color:white"> Book Of Pokadex The Holy Grail </h3>
                     <ul style="line-height: 43px;">
                         <li style="font-size:20px; color:white;" >Book of Pokdex is launching on the BASE BlockChain, Presale holders will recieve the first ever Book of Pokadex NFT Card!</li> 
-                        <li style="font-size:20px; color:white;"  >Community driven building an collection of Book of Pokadex NFT cards</li> 
+                        <li style="font-size:20px; color:white;"  >Community driven building a collection of Book of Pokadex NFT cards</li> 
                          <li style="font-size:20px; color:white;"  >Holders will be able to vote on Expansion NFT collections</li>
                     </ul>
 
