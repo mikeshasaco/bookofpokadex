@@ -727,6 +727,10 @@
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td style="color:white;">.05 ETH</td>
+      <td style="color:white;">2,500,000</td>
+    </tr>
     <tr>
       <td style="color:white;">.1 ETH</td>
       <td style="color:white;">5,000,000</td>
