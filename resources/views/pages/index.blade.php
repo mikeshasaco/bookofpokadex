@@ -654,9 +654,11 @@
                 <div class="col-lg-6">
                     <h3 style="color:white"> Book Of Pokadex The Holy Grail </h3>
                     <ul style="line-height: 43px;">
-                        <li style="font-size:20px; color:white;" >Book of Pokdex is launching on the BASE BlockChain, Presale holders will recieve the first ever Book of Pokadex NFT Card!</li> 
+                        <!-- <li style="font-size:20px; color:white;" >Book of Pokdex is launching on the BASE BlockChain, Presale holders will recieve the first ever Book of Pokadex NFT Card!</li>  -->
                         <li style="font-size:20px; color:white;"  >Community driven building a collection of Book of Pokadex NFT cards</li> 
                          <li style="font-size:20px; color:white;"  >Holders will be able to vote on Expansion NFT collections</li>
+                         <li style="font-size:20px; color:white;"  >Weekly NFT air drops to holders</li>
+
                     </ul>
 
                     <p></p>
@@ -693,15 +695,13 @@
                 </div> -->
                 
                 <div class="col-lg-6">
-                    <h3 style="color:white"> Presale Information</h3>
+                    <h3 style="color:white"> Launch April 1st 2024</h3>
                  
                     <ul>
-                         <p style="line-height: 40px; color:white;" >BaseChain Presale Information</p> 
-                         <p style="line-height: 40px; color:white;" >Send Etheruem to this wallet address</p> 
-                        <p style="line-height: 40px; color:white;" >0x845018574e0B0C99e8Ee8058CcC205203eb73654</p> 
-                         <p style="line-height: 40px; color:white;" >min: .1 ETH  </p> 
-                        <p style="line-height: 40px; color:white;" >Max: 1 ETH</p> 
-                        <p style="line-height: 40px; color:white;" >Once you send the Ethereum you will recieve your Tokens and NFT within the first 5 minutes</p> 
+                         <p style="line-height: 40px; color:white;" >Fair Launch</p> 
+                         <p style="line-height: 40px; color:white;" >Network: Base</p> 
+                        <p style="line-height: 40px; color:white;" >Contract Address Check Telegram </p> 
+                         <p style="line-height: 40px; color:white;" >Total Supply: 10 Billion Tokens  </p> 
 
 
 
@@ -715,7 +715,7 @@
         </div> <!-- end of container -->
     </div> <!-- end of basic-1 -->
     <!-- end of takeaways -->
-<section style="background-color:black">
+<!-- <section style="background-color:black">
 <div class ="container" style="background-color: black !important;">
       <div class="row">
         <div class="col-lg-12">
@@ -779,7 +779,7 @@
       </div>
 
     </div>
-</section>
+</section> -->
    
 
 
@@ -790,7 +790,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                <h3 style="text-align:center; color:white;">Presale Holders Will recieve a random Book of Pokadex NFT sent To there opensea </h3>
+                <h3 style="text-align:center; color:white;">Time To Open The Book Of Pokadex</h3>
 
                     <!-- Card Slider -->
                     <div class="slider-container">
@@ -904,7 +904,7 @@
                         <h3 style="color:white;">  Where can I buy?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">SushiSwap follow telegram for more information</p>
+                                <p style="color:black;">Uniswap Base follow telegram for more information</p>
                             </div>
 
                         </div>
@@ -914,7 +914,7 @@
 
                   
 
-                    <div class="question-title">
+                    <!-- <div class="question-title">
                         <h3 style="color:white;"> What is the presale wallet address?</h3>
                         <div class="content-main">
                             <div class="content-inner">
@@ -923,7 +923,7 @@
 
                         </div>
 
-                    </div>
+                    </div> -->
 
 
                     <div class="question-title">

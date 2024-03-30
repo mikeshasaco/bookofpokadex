@@ -14,3 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [App\Http\Controllers\PagesController::class, 'index']);
+Route::get('/presale', [App\Http\Controllers\PagesController::class, 'transaction']);
+
