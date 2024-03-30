@@ -715,7 +715,7 @@
         </div> <!-- end of container -->
     </div> <!-- end of basic-1 -->
     <!-- end of takeaways -->
-<!-- <section style="background-color:black">
+<section style="background-color:black">
 <div class ="container" style="background-color: black !important;">
       <div class="row">
         <div class="col-lg-12">
@@ -779,7 +779,7 @@
       </div>
 
     </div>
-</section> -->
+</section>
    
 
 
