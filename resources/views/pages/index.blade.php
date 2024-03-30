@@ -675,7 +675,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <!-- <div class="cardone redmask"> -->
-                    <div class="cardone greenmask">
+                    <div class="cardone bluemask">
 
                     </div>
 
