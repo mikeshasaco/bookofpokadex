@@ -263,14 +263,14 @@
 .cardone.redmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("charizard.jpg");
+  background-image: url("bluedragon.png");
 
 }
 
 .cardone.ball {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("pokeball.png");
+  background-image: url("frog.jpg");
 
 }
 
@@ -386,7 +386,7 @@
 }
 .cardone.ball:after {
   opacity: 1;
-  background-image: url("https://media.giphy.com/media/gmDwphaOWmfkY/giphy.gif");
+  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRocXh0cDd1OGF1cms1ZzZ2bjMzM2J4cmg4bHdnNXlrZDRtM2lyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/htsaY5DcfK90Vcwbvp/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
@@ -675,7 +675,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <!-- <div class="cardone redmask"> -->
-                    <div class="cardone greenmask">
+                    <div class="cardone redmask">
 
                     </div>
 
@@ -822,12 +822,12 @@
                                 <!-- end of slide -->
         
                                 <!-- Slide -->
-                                <div class="swiper-slide">
+                                <!-- <div class="swiper-slide">
                                 <div class="cardone bluemask">
 
                                     </div>
 
-                                    </div>     
+                                    </div>      -->
                                     
                                     <div class="swiper-slide">
                                 <div class="cardone greenmask">
