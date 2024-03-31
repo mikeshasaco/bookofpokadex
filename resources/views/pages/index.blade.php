@@ -263,7 +263,7 @@
 .cardone.redmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("charizard.jpg");
+  background-image: url("darkcharizard.png");
 
 }
 
@@ -376,7 +376,7 @@
 }
 .cardone.redmask:after {
   opacity: 1;
-  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRoemdzdjVycTZrOWFkb245N3RkMnp1YTdzYXZyNGhtaXRscWp1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRmBOCZDJJGU0/giphy.gif");
+  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDcweTRrODd2Y2M0cjg3cnlwczczN2hjZXd3MWVvZmg3NWV5M3dtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qvp6Z2fidQR34IcwQ5/giphy-downsized-large.gif");
   background-position: center;
   background-size: 259%;
   z-index: 2;
@@ -645,7 +645,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="cardone ball">
+                    <div class="cardone redmask">
 
                     </div>
 
@@ -675,7 +675,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <!-- <div class="cardone redmask"> -->
-                    <div class="cardone bluemask">
+                    <div class="cardone redmask">
 
                     </div>
 
