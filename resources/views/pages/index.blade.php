@@ -702,7 +702,7 @@
                          <p style="line-height: 40px; color:white;" >min: .1 ETH  </p> 
                         <p style="line-height: 40px; color:white;" >Max: 1 ETH</p> 
                         <p style="line-height: 40px; color:white;" >Once you send the Ethereum you will recieve your Tokens and NFT within the first 5 minutes</p> 
-                        <p style="line-height: 40px; color:white;" >Launch Date: April 4th, 2024 5pm EST</p> 
+                        <p style="line-height: 40px; color:white;" >Launch Date: April 5th, 2024 5pm EST</p> 
 
 
 
