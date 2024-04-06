@@ -263,7 +263,7 @@
 .cardone.redmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("mew.png");
+  background-image: url("frog.jpg");
 
 }
 
@@ -376,7 +376,7 @@
 }
 .cardone.redmask:after {
   opacity: 1;
-  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRoemdzdjVycTZrOWFkb245N3RkMnp1YTdzYXZyNGhtaXRscWp1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRmBOCZDJJGU0/giphy.gif");
+  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpybWFwYjVvamhhOTJ6cjd2cTd5ZDJ2azg4eTRqd3E0Zjc2MmNkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytwDCy4skFkEzyw4G4/giphy.gif");
   background-position: center;
   background-size: 259%;
   z-index: 2;
